@@ -61,7 +61,7 @@ $messages['console_card1_execute'] = 'ΕΚΤΕΛΕΣΗ';
 
 $messages['console_card2_title'] = 'Ενέργειες';
 $messages['console_card2_start'] = 'ΕΝΑΡΞΗ';
-$messages['console_card2_stop'] = 'ΤΕΡΜΑΤΙΣΜΟς';
+$messages['console_card2_stop'] = 'ΤΕΡΜΑΤΙΣΜΟΣ';
 $messages['console_card2_restart'] = 'ΕΠΑΝΕΚΚΙΝΗΣΗ';
 
 $messages['console_card3_title'] = 'Μετονομασία';
