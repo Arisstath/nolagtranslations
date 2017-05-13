@@ -1,0 +1,2 @@
+# nolagtranslations
+Translations for NoLagCP
