@@ -13,6 +13,7 @@ $messages['dashboard_card1_serversstatus'] = 'SERVERS STATUS';
 $messages['dashboard_card1_online'] = 'ONLINE';
 
 //Dashboard - Card2
+$messages['dashboard_card2_title'] = 'Invoices';
 $messages['dashboard_card2_amount'] = 'Amount';
 $messages['dashboard_card2_paymentstatus'] = 'Payment Status';
 $messages['dashboard_card2_action'] = 'Action';
@@ -136,7 +137,6 @@ $messages['api_changepass_expired'] = 'This Password Reset token is expired.';
 $messages['api_changepass_success'] = 'Your password has been successfully changed!';
 
 //delSubuser
-$messages['api_delsubuser_self'] = 'You can\'t remove yourself as subuser!';
 $messages['api_delsubuser_self'] = 'You can\'t remove yourself as subuser!';
 $messages['api_delsubuser_already'] = 'This user does not have access to your server!';
 $messages['api_delsubuser_success'] = 'Subuser has been successfully deleted!';
