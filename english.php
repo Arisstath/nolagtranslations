@@ -3,6 +3,16 @@
    contains translations for web ui & api, not for daemon
 */
 
+//=======[NAVBAR]=======
+$messages['navbar_dashboard'] = 'Dashboard';
+$messages['navbar_orderservices'] = 'Order Service';
+$messages['navbar_loadbalance'] = 'Load Balance';
+$messages['navbar_console'] = 'Console';
+$messages['navbar_filemanager'] = 'File Manager';
+$messages['navbar_installjar'] = 'Install Jar';
+$messages['navbar_subusers'] = 'Subusers';
+$messages['navbar_viewcart'] = 'View Cart';
+
 //=======[DASHBOARD]=======
 $messages['dashboard_tabs_activeservices'] = 'ACTIVE SERVICES';
 $messages['dashboard_tabs_unpaidinvoices'] = 'UNPAID INVOICES';
@@ -20,7 +30,6 @@ $messages['dashboard_card2_action'] = 'Action';
 $messages['dashboard_card2_view'] = 'VIEW';
 
 //=======[Order Service]=======
-$messages['orderservices_sidebar'] = 'Order Service';
 $messages['orderservices_choosepackage'] = 'Choose a package';
 $messages['orderservices_buy'] = 'BUY';
 
@@ -42,7 +51,6 @@ $messages['dashboard_viewcart_card2_total'] = 'Total';
 
 
 //=======[Load Balance]=======
-$messages['loadbalance_sidebar'] = 'Load Balance';
 $messages['loadbalance_paypal'] = 'PAYPAL (USD)';
 $messages['orderservices_paygol'] = 'SMS/PAYSAFE (USD)';
 
