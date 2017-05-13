@@ -20,10 +20,13 @@ $messages['dashboard_card2_action'] = 'Action';
 $messages['dashboard_card2_view'] = 'VIEW';
 
 //=======[Order Service]=======
+$messages['orderservices_sidebar'] = 'Order Service';
 $messages['orderservices_choosepackage'] = 'Choose a package';
 $messages['orderservices_buy'] = 'BUY';
 
 //=======[View Cart]=======
+$messages['dashboard_viewcart_navbar'] = 'Shopping Cart';
+
 $messages['dashboard_viewcart_card1_title'] = 'EXTRA OPTIONS';
 $messages['dashboard_viewcart_card1_chooseloc'] = 'Choose a location';
 
@@ -39,6 +42,7 @@ $messages['dashboard_viewcart_card2_total'] = 'Total';
 
 
 //=======[Load Balance]=======
+$messages['loadbalance_sidebar'] = 'Load Balance';
 $messages['loadbalance_paypal'] = 'PAYPAL (USD)';
 $messages['orderservices_paygol'] = 'SMS/PAYSAFE (USD)';
 
@@ -65,6 +69,7 @@ $messages['console_card4_node'] = 'Node';
 $messages['console_card4_ftphost'] = 'FTP Host';
 $messages['console_card4_ftpport'] = 'FTP Port';
 $messages['console_card4_ftpusr'] = 'FTP Username';
+$messages['console_card4_ftpasst'] = 'FTP Password';
 $messages['console_card4_ftpass'] = 'SHOW';
 
 $messages['console_modal_title'] = 'YOUR FTP PASSWORD';
@@ -72,6 +77,7 @@ $messages['console_modal_reset'] = 'RESET';
 $messages['console_modal_close'] = 'CLOSE';
 
 //=======[Install JAR]=======
+$messages['install_choose'] = 'Choose a version';
 $messages['install_button'] = 'INSTALL';
 
 //=======[Subusers]=======
