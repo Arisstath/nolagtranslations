@@ -111,7 +111,7 @@ $messages['invoice_back'] = 'ΕΠΙΣΤΡΟΦΗ';
 
 //API
 $messages['api_generic_missingfields'] = 'Μερικοί παράμετροι απουσιάζουν';
-$messages['api_generic_nullserver'] = 'Ο server αυτός δεν μπορούσε να βρεθεί!';
+$messages['api_generic_nullserver'] = 'Ο server αυτός δεν μπόρεσε να βρεθεί!';
 $messages['api_generic_noaccess'] = 'Δεν έχεις πρόσβαση σε αυτόν τον server!';
 $messages['api_generic_captcha'] = 'Το captcha δεν είναι συμπληρωμένο!';
 
