@@ -97,6 +97,19 @@ $messages['subusers_card_2_username'] = 'Username';
 $messages['subusers_card_2_action'] = 'Action';
 $messages['subusers_card_2_remove'] = 'Remove';
 
+//=======[Invoice]=======
+$messages['invoice_title'] = 'Invoice';
+$messages['invoice_date'] = 'Date';
+$messages['invoice_due'] = 'Due Date';
+$messages['invoice_id'] = 'Service ID';
+$messages['invoice_item'] = 'Item';
+$messages['invoice_cost'] = 'Cost';
+$messages['invoice_total'] = 'Total';
+$messages['invoice_thanks'] = 'Thank you !';
+$messages['invoice_any'] = 'If you have any issues or experiencing issues with our payments system, do not hesitate to ask us for support!';
+$messages['invoice_back'] = 'GO BACK';
+
+
 //API
 $messages['api_generic_missingfields'] = 'Some parameters are missing';
 $messages['api_generic_nullserver'] = 'Could not find this server!';
