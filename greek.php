@@ -1,5 +1,5 @@
 <?php
-/* english.php - english language file 
+/* greek.php - greek language
    contains translations for web ui & api, not for daemon
 */
 
