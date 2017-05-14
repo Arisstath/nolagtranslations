@@ -52,7 +52,7 @@ $messages['dashboard_viewcart_card2_total'] = 'Total';
 
 //=======[Load Balance]=======
 $messages['loadbalance_paypal'] = 'PAYPAL (USD)';
-$messages['orderservices_paygol'] = 'SMS/PAYSAFE (USD)';
+$messages['orderservices_paygol'] = 'SMS/PAYSAFECARD (USD)';
 
 //=======[Console]=======
 $messages['console_card1_title'] = 'Consola';
