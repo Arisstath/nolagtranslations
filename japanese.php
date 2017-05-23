@@ -1,5 +1,5 @@
 <?php
-/* english.php - english language file 
+/* japanese.php - japanese language file 
    contains translations for web ui & api, not for daemon
 */
 //=======[NAVBAR]=======
